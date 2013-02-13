@@ -1,0 +1,48 @@
+﻿test testtet retest mosttest testis test;) test:P test_one 
+  testLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONGWOOOOOORDRWITH_ATTACHMENT TO IT"
+  <component
+      name="Microsoft-Windows-testSecurity-SPP-Client.Resources, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0x1000"
+      />
+  <component
+      name="Microsoft-Windows-Security-SPP.Resources, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0x2000"
+      />
+  <component
+  test testtet retest mosttest testis test;) test:P test_one 
+  testLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONGWOOOOOORDRWITH_ATTACHMENT TO IT"
+      name="Microsoft-Windows-VCRuntimetest.Resources.ManifestResources, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0x5000"
+      /> test
+  <componenttest
+      name="Microsoft-Windows-VCRuntime.Resources, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0x6000"
+      />
+  <testcomponent
+      name="Microsoft-Windows-Kernel32.Resources.ManifestResources, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0x7000"
+      />
+  <component
+      name="Microsoft-Windows-Kernel32.Resources, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0x8000"
+      />
+  <component
+      name="Microsoft-Windows-Base Technologies-Kernel.ManifestResources, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0x9000"
+      />
+  <component
+      name="Microsoft-Windows-bootvid.ManifestResources, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0xa000"
+      />
+  <component
+      name="Microsoft-Windows-bootvid, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0xb000"
+      />
+  <component
+      name="Microsoft-Windows-Base Technologies-DebuggerTransport-Serial.ManifestResources, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0xc000"
+      />
+  <component
+      name="Microsoft-Windows-Base Technologies-DebuggerTransport-Serial, Version=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+      order="0xd000"
+      />
