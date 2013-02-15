@@ -72,6 +72,12 @@ namespace NameSevenSegmentDigits
             }            
         }
 
+
+        //I get the possible numbers by binary & with the given sequence 
+        //so when I take 1110111
+        //and & with     ????11?
+        //I get the      0000110
+        //this means I can use the 1110111 in the combination
         private static List<string> ExtractPossibleNums(string sequence, Dictionary<int, int> comparer)
         {
             int numberInSequence = GetNumber(sequence);
