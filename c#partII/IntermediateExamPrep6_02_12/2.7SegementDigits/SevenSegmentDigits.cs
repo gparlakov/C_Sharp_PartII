@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace NameSevenSegmentDigits
 {
@@ -92,7 +90,8 @@ namespace NameSevenSegmentDigits
             }      
             return result;
         }
-
+        
+        //revert the number from binary to decimal
         static int GetNumber(string str)
         {
             int number = 0;
