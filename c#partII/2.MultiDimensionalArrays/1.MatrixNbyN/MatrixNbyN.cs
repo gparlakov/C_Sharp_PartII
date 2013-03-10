@@ -183,7 +183,7 @@ class MatrixNbyN
             Console.Write("|");
             for (int y = 0; y < n; y++)
             {
-                Console.Write("{0}|", numbers1[x, y]);
+                Console.Write("{0}|", numbers2[x, y]);
             }
             Console.WriteLine();
         }
@@ -196,7 +196,7 @@ class MatrixNbyN
             Console.Write("|");
             for (int y = 0; y < n; y++)
             {
-                Console.Write("{0}|", numbers1[x, y]);
+                Console.Write("{0}|", numbers3[x, y]);
             }
             Console.WriteLine();
         }
@@ -208,7 +208,7 @@ class MatrixNbyN
             Console.Write("|");
             for (int y = 0; y < n; y++)
             {
-                Console.Write("{0}|", numbers1[x, y]);
+                Console.Write("{0}|", numbers4[x, y]);
             }
             Console.WriteLine();
         }
